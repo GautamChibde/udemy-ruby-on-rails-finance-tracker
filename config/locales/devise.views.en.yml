@@ -45,7 +45,7 @@ en:
       unauthenticated: You need to sign in or sign up before continuing.
       unconfirmed: You have to confirm your email address before continuing.
     mailer:
-      confirmation_instructions:
+      confirmation_instructions:••••••••
         action: Confirm my account
         greeting: Welcome %{recipient}!
         instruction: 'You can confirm your account email through the link below:'
